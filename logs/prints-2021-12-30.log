@@ -1,0 +1,7 @@
+13:53:13.160 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xb81bb91a0bd98b25
+13:53:13.197 [main] INFO  Academy.HomePageTest - Initialized Driver
+13:53:25.414 [main] INFO  Academy.HomePageTest - Navigate to URL
+13:53:27.865 [main] INFO  Academy.HomePageTest - clicked on Login
+13:53:27.932 [main] INFO  Academy.HomePageTest - Sent UserName
+13:53:28.001 [main] INFO  Academy.HomePageTest - Sent Password
+13:53:28.070 [main] INFO  Academy.HomePageTest - Clicked on Submit

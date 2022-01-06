@@ -1,0 +1,8 @@
+18:07:14.912 [main] INFO  Academy.HomePageTest - Navigate to URL
+18:07:16.677 [main] INFO  Academy.HomePageTest - clicked on Login
+18:07:16.727 [main] INFO  Academy.HomePageTest - Sent UserName
+18:07:16.779 [main] INFO  Academy.HomePageTest - Sent Password
+18:07:16.824 [main] INFO  Academy.HomePageTest - Clicked on Submit
+18:07:35.753 [main] INFO  Academy.FailedTest - Navigated to URL
+18:07:49.656 [main] INFO  Academy.LandingPageTest - Navigated to URL
+18:07:49.684 [main] INFO  Academy.LandingPageTest - Title Matches

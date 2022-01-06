@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 58.216 s <<< FAILURE! - in TestSuite
+Academy.FailedTest.FailedTestCase  Time elapsed: 12.578 s  <<< FAILURE!
+java.lang.AssertionError: expected [Incorrect Title] but found [An Academy to Learn Earn & Shine  in your QA Career]
+	at Academy.FailedTest.FailedTestCase(FailedTest.java:34)
+
