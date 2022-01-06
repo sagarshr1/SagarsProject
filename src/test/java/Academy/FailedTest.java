@@ -35,6 +35,7 @@ public class FailedTest extends Base {
 		log.info("Title Matches");
 		Assert.assertTrue(l.menuBar().isDisplayed());
 		log.info("Menu Bar displayed");
+		System.out.println("Added line");
 
 	}
 
