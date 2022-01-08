@@ -40,6 +40,7 @@ public class FailedTest extends Base {
 		System.out.println("Added line3");
 		System.out.println("Added line4");
 		System.out.println("Added line5");
+		System.out.println("Added line6");
 
 	}
 
